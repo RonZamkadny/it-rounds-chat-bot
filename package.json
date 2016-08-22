@@ -1,0 +1,27 @@
+{
+  "name": "it-rounds-chat-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "roundit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RonZamkadny/it-rounds-chat-bot.git"
+  },
+  "keywords": [
+    "chat",
+    "bot"
+  ],
+  "author": "Ron Zamkadny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RonZamkadny/it-rounds-chat-bot/issues"
+  },
+  "homepage": "https://github.com/RonZamkadny/it-rounds-chat-bot#readme",
+  "dependencies": {
+    "botbuilder": "^3.2.3",
+    "restify": "^4.1.1"
+  }
+}
